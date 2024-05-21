@@ -4,12 +4,6 @@
 
 <p><b>
 I am an undergraduate student pursuing a B.Sc. Honours in Management and Information Technology at the University of Kelaniya, Sri Lanka. Additionally, I am enrolled in a BSc (Hons) in Information Technology with a specialization in Software Engineering at the Sri Lanka Institute of Information Technology (SLIIT). Passionate about the intersection of management and technology, I am dedicated to gaining a comprehensive understanding of these fields to make a meaningful impact in the tech industry.</b></p>
-### Hi there 👋
-
-<h2><b>Who am I?</b></h2>
-
-<p><b>
-I am an undergraduate student pursuing a B.Sc. Honours in Management and Information Technology at the University of Kelaniya, Sri Lanka. Additionally, I am enrolled in a BSc (Hons) in Information Technology with a specialization in Software Engineering at the Sri Lanka Institute of Information Technology (SLIIT). Passionate about the intersection of management and technology, I am dedicated to gaining a comprehensive understanding of these fields to make a meaningful impact in the tech industry.</b></p>
 
 ### Technologies and Tools
 
