@@ -20,6 +20,7 @@ I am an undergraduate student pursuing a B.Sc. Honours in Management and Informa
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
   
   <!-- Mobile Development -->
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
@@ -36,11 +37,8 @@ I am an undergraduate student pursuing a B.Sc. Honours in Management and Informa
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
-
-  <!-- Data Science & Tools -->
-  <img src="https://img.shields.io/badge/Orange-F28D00?style=for-the-badge&logo=datadog&logoColor=white" alt="Orange"/>
-
 </p>
+
 
 <!-- Additional Links -->
 - 🔭 I’m currently working on ...
